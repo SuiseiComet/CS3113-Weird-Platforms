@@ -158,7 +158,7 @@ void initialise()
     
     // ————— LEVEL A SETUP ————— //
     
-    switch_to_scene(g_levels[0]);
+    switch_to_scene(g_levels[3]);
     
     // ————— BLENDING ————— //
     glEnable(GL_BLEND);
